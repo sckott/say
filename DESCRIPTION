@@ -5,6 +5,7 @@ Authors@R: c(
   person("The", "Authors", , "some@email.org", c("aut", "cre"))
   )
 Imports:
-    cowsay
+    cowsay,
+    rmarkdown
 URL: https://github.com/sckott/say
 License: CC0
