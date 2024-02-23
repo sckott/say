@@ -1,0 +1,14 @@
+---
+title: "Say"
+---
+
+!Say something!
+
+```{r include=FALSE}
+library(cowsay)
+```
+
+```{r echo=FALSE, results="asis"}
+say(" Hello from DASL!")
+```
+
